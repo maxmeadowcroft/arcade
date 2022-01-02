@@ -1,0 +1,18 @@
+Hangman
+High Score
+0
+Low Score
+0
+Times Played
+0
+Wins
+0
+Minesweeper
+High Score
+0
+Low Score
+0
+Times Played
+0
+Wins
+0
